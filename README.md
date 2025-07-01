@@ -3,7 +3,7 @@ This project involved a comprehensive analysis of a bicycle store's customer and
 ## Table of Contents
 [**00.**](https://github.com/Sindeed28/Bicycle_Store_Customer_and_Product_Data_Exploration_and_Analysis/blob/main/scripts/000_import_database.sql) **Import Database:** Import the three tables containing the customer, product, and sales data.
 
-### Exploratory Analysis
+### :mag: Exploratory Analysis
 
 [**01.**](https://github.com/Sindeed28/Bicycle_Store_Customer_and_Product_Data_Exploration_and_Analysis/blob/main/scripts/001_database_exploration.sql) **Database Exploration:** Uncovers database structure, listing tables and inspecting schemas and columns.
 
@@ -17,7 +17,7 @@ This project involved a comprehensive analysis of a bicycle store's customer and
 
 [**06.**](https://github.com/Sindeed28/Bicycle_Store_Customer_and_Product_Data_Exploration_and_Analysis/blob/main/scripts/006_ranking_analysis.sql) **Ranking Analysis:** Rank customers, products, or other entities based on specific metrics.
 
-### Data Analysis
+### :memo: Data Analysis
 
 [**07.**](https://github.com/Sindeed28/Bicycle_Store_Customer_and_Product_Data_Exploration_and_Analysis/blob/main/scripts/007_change_over_time_analysis.sql) **Change Over Time Analysis:** Analyze trends and changes in sales and other metrics over different time periods.
 
@@ -29,7 +29,7 @@ This project involved a comprehensive analysis of a bicycle store's customer and
 
 [**11.**](https://github.com/Sindeed28/Bicycle_Store_Customer_and_Product_Data_Exploration_and_Analysis/blob/main/scripts/011_data_segmentation.sql) **Data Segmentation Analysis:** Segment customers or products based on specific criteria to identify distinct groups.
 
-### Report Generation
+### :chart_with_upwards_trend: Report Generation
 
 [**12.**](https://github.com/Sindeed28/Bicycle_Store_Customer_and_Product_Data_Exploration_and_Analysis/blob/main/scripts/012_customers_report.sql) **Customer Report:** Consolidates key customer metrics and behaviors, including basic details, segmentation, aggregated metrics, and KPIs like recency and average order value.
 
