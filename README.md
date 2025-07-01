@@ -1,2 +1,2 @@
-# Bicycle_Store_Customer_and_Product_Data_Exploration_and_Analysis
+# Bicycle Store: Customer & Product Data Exploration & Analysis
 desc
